@@ -1,0 +1,12 @@
+target
+*.env
+.cargo
+.vscode
+config.yaml
+tokens.json
+*.db
+node_modules
+dist
+tailscale
+twitch-points-miner.log
+temp
